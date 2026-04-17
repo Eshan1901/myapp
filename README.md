@@ -85,19 +85,24 @@ Suggested file names:
 
 ### Home
 
-![Home Screen](assets/screenshots/home.jpeg)
-
-### Tasks
-
-![Tasks Screen](assets/screenshots/tasks.jpeg)
-
-### Notes
-
-![Notes Screen](assets/screenshots/notes.jpeg)
-
-### Quotes
-
-![Quotes Screen](assets/screenshots/quotes.jpeg)
+<table>
+	<tr>
+		<td align="center"><strong>Home</strong></td>
+		<td align="center"><strong>Tasks</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="assets/screenshots/home.jpeg" alt="Home Screen" width="260"/></td>
+		<td align="center"><img src="assets/screenshots/tasks.jpeg" alt="Tasks Screen" width="260"/></td>
+	</tr>
+	<tr>
+		<td align="center"><strong>Notes</strong></td>
+		<td align="center"><strong>Quotes</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="assets/screenshots/notes.jpeg" alt="Notes Screen" width="260"/></td>
+		<td align="center"><img src="assets/screenshots/quotes.jpeg" alt="Quotes Screen" width="260"/></td>
+	</tr>
+</table>
 
 ## Repository
 
