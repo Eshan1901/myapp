@@ -70,6 +70,35 @@ Check setup:
 - pubspec.yaml: Dependencies and project metadata
 - android, ios, web, linux, macos, windows: Platform-specific Flutter targets
 
+## Screenshots
+
+Add your screenshots to:
+
+- assets/screenshots/
+
+Suggested file names:
+
+- home.jpeg
+- tasks.jpeg
+- notes.jpeg
+- quotes.jpeg
+
+### Home
+
+![Home Screen](assets/screenshots/home.jpeg)
+
+### Tasks
+
+![Tasks Screen](assets/screenshots/tasks.jpeg)
+
+### Notes
+
+![Notes Screen](assets/screenshots/notes.jpeg)
+
+### Quotes
+
+![Quotes Screen](assets/screenshots/quotes.jpeg)
+
 ## Repository
 
 GitHub: https://github.com/Eshan1901/myapp
